@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:TalendProperties="http://www.talend.org/properties">
+  <TalendProperties:Project xmi:id="_25fmYeYfEei5Xd-e-JwtxA" label="hcf_datalake" description="HCF " language="java" technicalLabel="HCF_DATALAKE" creationDate="2018-11-12T12:27:02.000+1100" author="_25gNcOYfEei5Xd-e-JwtxA" productVersion="Talend Data Fabric-7.0.1.20180411_1414" url="{&quot;commitLogPattern&quot;:&quot;{0}&quot;,&quot;location&quot;:&quot;https://github.com/beharasatya/test_datalake.git&quot;,&quot;login&quot;:&quot;beharasagar@gmail.com&quot;,&quot;passwd&quot;:&quot;NSST0cA/JPMbH34LRe9o7A==&quot;,&quot;settings&quot;:&quot;010&quot;,&quot;storage&quot;:&quot;git&quot;}" type="DI"/>
+  <TalendProperties:User xmi:id="_25gNcOYfEei5Xd-e-JwtxA" login="ops@company.com" firstName="Ops" lastName="Manager" type="MDM" additionnalData="{}"/>
+</xmi:XMI>
