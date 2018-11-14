@@ -10,8 +10,8 @@
   <url>http://www.talend.org/</url>
   <modules>
     <module>code/routines</module>
-    <module>jobs/process/Landing/landings3transform_0.1</module>
     <module>jobs/process_mr/landings3transformcrud_0.1</module>
+    <module>jobs/process/Landing/landings3load_0.1</module>
   </modules>
   <properties>
     <talend.project.name>HCF_DATALAKE</talend.project.name>
