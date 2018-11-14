@@ -7,6 +7,10 @@
     <documentationStatus xmi:id="_f3R9EOYhEei74-Q5zlKNFA" label="unchecked" code="UCK"/>
     <documentationStatus xmi:id="_f3R9EeYhEei74-Q5zlKNFA" label="checked" code="CHK"/>
     <documentationStatus xmi:id="_f3R9EuYhEei74-Q5zlKNFA" label="validated" code="VAL"/>
+    <componentsSettings xmi:id="_522YIOe7EeiwYaFBes9oLQ" name="DI|tArrayIn" family="Technical"/>
+    <componentsSettings xmi:id="_522_MOe7EeiwYaFBes9oLQ" name="DI|tHashOutput" family="Technical"/>
+    <componentsSettings xmi:id="_522_Mee7EeiwYaFBes9oLQ" name="DI|tHashInput" family="Technical"/>
+    <componentsSettings xmi:id="_522_Mue7EeiwYaFBes9oLQ" name="DI|tArray" family="Technical"/>
     <ItemsRelations xmi:id="_q8nUoOeTEeiwYaFBes9oLQ">
       <baseItem xmi:id="_q8nUoeeTEeiwYaFBes9oLQ" id="_Stx6wOYiEei74-Q5zlKNFA" version="0.1" type="job"/>
       <relatedItems xmi:id="_q8nUoueTEeiwYaFBes9oLQ" id="SQLike" version="Latest" type="routine"/>
