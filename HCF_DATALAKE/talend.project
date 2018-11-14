@@ -1,6 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:TalendProperties="http://www.talend.org/properties">
   <TalendProperties:Project xmi:id="_25fmYeYfEei5Xd-e-JwtxA" label="hcf_datalake" description="HCF " language="java" technicalLabel="HCF_DATALAKE" creationDate="2018-11-12T12:27:02.000+1100" author="_25gNcOYfEei5Xd-e-JwtxA" productVersion="Talend Data Fabric-7.0.1.20180411_1414" url="{&quot;commitLogPattern&quot;:&quot;{0}&quot;,&quot;location&quot;:&quot;https://github.com/beharasatya/test_datalake.git&quot;,&quot;login&quot;:&quot;beharasagar@gmail.com&quot;,&quot;passwd&quot;:&quot;NSST0cA/JPMbH34LRe9o7A==&quot;,&quot;settings&quot;:&quot;010&quot;,&quot;storage&quot;:&quot;git&quot;}" type="DI" itemsRelationVersion="1.3">
+    <technicalStatus xmi:id="_pBCfUOfAEeix8cSYbk7L5w" label="development" code="DEV"/>
+    <technicalStatus xmi:id="_pBCfUefAEeix8cSYbk7L5w" label="testing" code="TEST"/>
+    <technicalStatus xmi:id="_pBCfUufAEeix8cSYbk7L5w" label="production" code="PROD"/>
+    <documentationStatus xmi:id="_o8CDgefAEeix8cSYbk7L5w" label="unchecked" code="UCK"/>
+    <documentationStatus xmi:id="_o8CDgufAEeix8cSYbk7L5w" label="checked" code="CHK"/>
+    <documentationStatus xmi:id="_o8CDg-fAEeix8cSYbk7L5w" label="validated" code="VAL"/>
     <componentsSettings xmi:id="_522YIOe7EeiwYaFBes9oLQ" name="DI|tArrayIn" family="Technical"/>
     <componentsSettings xmi:id="_522_MOe7EeiwYaFBes9oLQ" name="DI|tHashOutput" family="Technical"/>
     <componentsSettings xmi:id="_522_Mee7EeiwYaFBes9oLQ" name="DI|tHashInput" family="Technical"/>
