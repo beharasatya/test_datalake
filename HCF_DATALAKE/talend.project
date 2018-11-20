@@ -523,4 +523,5 @@
   </TalendProperties:Project>
   <TalendProperties:User xmi:id="_25gNcOYfEei5Xd-e-JwtxA" login="ops@company.com" firstName="Ops" lastName="Manager" type="MDM" additionnalData="{}"/>
   <TalendProperties:User xmi:id="_fkF7UeYhEei74-Q5zlKNFA" login="dev@company.com" firstName="Dev" lastName="Test" type="MDM" additionnalData="{}"/>
+  <TalendProperties:User xmi:id="_9470ce0UEei_iO3oizfv1w" login="user@talend.com"/>
 </xmi:XMI>
