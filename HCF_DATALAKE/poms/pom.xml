@@ -15,6 +15,7 @@
     <module>jobs/process/Landing/landinglocalread_0.1</module>
     <module>jobs/process/Landing/landings3copy_0.1</module>
     <module>jobs/process_storm/streams3_0.1</module>
+    <module>jobs/process/Landing/landings3copy_0.2</module>
   </modules>
   <properties>
     <talend.project.name>HCF_DATALAKE</talend.project.name>
