@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><talendfile:ContextType xmlns:talendfile="platform:/resource/org.talend.model/model/TalendFile.xsd" xmlns:xmi="http://www.omg.org/XMI" confirmationNeeded="false" name="Default" xmi:id="_v6BHEP5uEeig07rjF0BGfw" xmi:version="2.0">
+  <contextParameter comment="" name="SF_BUTest_sessionDirectory" prompt="SF_BUTest_sessionDirectory?" promptNeeded="false" type="id_String" value="" xmi:id="_v6BHEf5uEeig07rjF0BGfw"/>
+  <contextParameter comment="" name="SF_BUTest_proxy_port" prompt="SF_BUTest_proxy_port?" promptNeeded="false" type="id_Integer" value="" xmi:id="_v6BHEv5uEeig07rjF0BGfw"/>
+  <contextParameter comment="" name="SF_BUTest_oauth_tokenFile" prompt="SF_BUTest_oauth_tokenFile?" promptNeeded="false" type="id_String" value="" xmi:id="_v6BHE_5uEeig07rjF0BGfw"/>
+  <contextParameter comment="" name="SF_BUTest_oauth2JwtFlow_subject" prompt="SF_BUTest_oauth2JwtFlow_subject?" promptNeeded="false" type="id_String" value="" xmi:id="_v6BHFP5uEeig07rjF0BGfw"/>
+  <contextParameter comment="" name="SF_BUTest_oauth2JwtFlow_issuer" prompt="SF_BUTest_oauth2JwtFlow_issuer?" promptNeeded="false" type="id_String" value="" xmi:id="_v6BHFf5uEeig07rjF0BGfw"/>
+  <contextParameter comment="" name="SF_BUTest_userPassword_password" prompt="SF_BUTest_userPassword_password?" promptNeeded="false" type="id_Password" value="dQizN/9zz0T6Xh/mwZTWNA==" xmi:id="_v6BHFv5uEeig07rjF0BGfw"/>
+  <contextParameter comment="" name="SF_BUTest_clientId" prompt="SF_BUTest_clientId?" promptNeeded="false" type="id_String" value="" xmi:id="_v6BHF_5uEeig07rjF0BGfw"/>
+  <contextParameter comment="" name="SF_BUTest_oauth2FlowType" prompt="SF_BUTest_oauth2FlowType?" promptNeeded="false" type="id_String" value="JWT_Flow" xmi:id="_v6BHGP5uEeig07rjF0BGfw"/>
+  <contextParameter comment="" name="SF_BUTest_userPassword_securityKey" prompt="SF_BUTest_userPassword_securityKey?" promptNeeded="false" type="id_Password" value="iP77IPf9W3OZ7fvFnUDSqAJzqCvNvftrHLHHadAOFWo=" xmi:id="_v6BHGf5uEeig07rjF0BGfw"/>
+  <contextParameter comment="" name="SF_BUTest_endpoint" prompt="SF_BUTest_endpoint?" promptNeeded="false" type="id_String" value="https://hcf--hcfsit.cs116.my.salesforce.com/services/Soap/u/42.0" xmi:id="_v6BHGv5uEeig07rjF0BGfw"/>
+  <contextParameter comment="" name="SF_BUTest_timeout" prompt="SF_BUTest_timeout?" promptNeeded="false" type="id_Integer" value="60000" xmi:id="_v6BHG_5uEeig07rjF0BGfw"/>
+  <contextParameter comment="" name="SF_BUTest_oauth_clientId" prompt="SF_BUTest_oauth_clientId?" promptNeeded="false" type="id_String" value="" xmi:id="_v6BHHP5uEeig07rjF0BGfw"/>
+  <contextParameter comment="" name="SF_BUTest_loginType" prompt="SF_BUTest_loginType?" promptNeeded="false" type="id_String" value="Basic" xmi:id="_v6BHHf5uEeig07rjF0BGfw"/>
+  <contextParameter comment="" name="SF_BUTest_userPassword_userId" prompt="SF_BUTest_userPassword_userId?" promptNeeded="false" type="id_String" value="enterprisedataservices@hcf.com.au.HCFSIT" xmi:id="_v6BHHv5uEeig07rjF0BGfw"/>
+  <contextParameter comment="" name="SF_BUTest_proxy_userPassword_userId" prompt="SF_BUTest_proxy_userPassword_userId?" promptNeeded="false" type="id_String" value="" xmi:id="_v6BHH_5uEeig07rjF0BGfw"/>
+  <contextParameter comment="" name="SF_BUTest_proxy_userPassword_password" prompt="SF_BUTest_proxy_userPassword_password?" promptNeeded="false" type="id_Password" value="" xmi:id="_v6BHIP5uEeig07rjF0BGfw"/>
+  <contextParameter comment="" name="SF_BUTest_oauth2JwtFlow_expirationTime" prompt="SF_BUTest_oauth2JwtFlow_expirationTime?" promptNeeded="false" type="id_Integer" value="" xmi:id="_v6BHIf5uEeig07rjF0BGfw"/>
+  <contextParameter comment="" name="SF_BUTest_oauth2JwtFlow_keyStore" prompt="SF_BUTest_oauth2JwtFlow_keyStore?" promptNeeded="false" type="id_String" value="" xmi:id="_v6BHIv5uEeig07rjF0BGfw"/>
+  <contextParameter comment="" name="SF_BUTest_apiVersion" prompt="SF_BUTest_apiVersion?" promptNeeded="false" type="id_String" value="42.0" xmi:id="_v6BHI_5uEeig07rjF0BGfw"/>
+  <contextParameter comment="" name="SF_BUTest_oauth2JwtFlow_certificateAlias" prompt="SF_BUTest_oauth2JwtFlow_certificateAlias?" promptNeeded="false" type="id_String" value="" xmi:id="_v6BHJP5uEeig07rjF0BGfw"/>
+  <contextParameter comment="" name="SF_BUTest_oauth_callbackHost" prompt="SF_BUTest_oauth_callbackHost?" promptNeeded="false" type="id_String" value="" xmi:id="_v6BHJf5uEeig07rjF0BGfw"/>
+  <contextParameter comment="" name="SF_BUTest_proxy_host" prompt="SF_BUTest_proxy_host?" promptNeeded="false" type="id_String" value="" xmi:id="_v6BHJv5uEeig07rjF0BGfw"/>
+  <contextParameter comment="" name="SF_BUTest_oauth2JwtFlow_keyStorePassword" prompt="SF_BUTest_oauth2JwtFlow_keyStorePassword?" promptNeeded="false" type="id_Password" value="" xmi:id="_v6BHJ_5uEeig07rjF0BGfw"/>
+  <contextParameter comment="" name="SF_BUTest_oauth_clientSecret" prompt="SF_BUTest_oauth_clientSecret?" promptNeeded="false" type="id_Password" value="" xmi:id="_v6BHKP5uEeig07rjF0BGfw"/>
+  <contextParameter comment="" name="SF_BUTest_oauth_callbackPort" prompt="SF_BUTest_oauth_callbackPort?" promptNeeded="false" type="id_Integer" value="" xmi:id="_v6BHKf5uEeig07rjF0BGfw"/>
+<Signature xmlns="http://www.w3.org/2000/09/xmldsig#" Id="_33bbcc6a-0ae2-475c-8e3b-bd55afa25066"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#"/><SignatureMethod Algorithm="http://www.w3.org/2001/04/xmldsig-more#rsa-sha512"/><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"/></Transforms><DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha512"/><DigestValue>oAHfrfsEwYY8fyFtJw0B3BXEZC6ZcNLPOMACQmuWObKRJ9pboVBg09okPHOypMDaDhIXVGO6v1lT
+KTvRNp78Iw==</DigestValue></Reference><Reference Type="http://www.w3.org/2000/09/xmldsig#SignatureProperties" URI="#_1fde88db-8742-4eeb-909a-3e688433d104"><Transforms><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#"/></Transforms><DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha512"/><DigestValue>3p6b3ifmQ7/S3yYr59/8lSgqJNRlLHQCH9h4/09XqwlRh7HUoGpMjvrHgLgYgsr7XfMcLdCf4/yY
++0kDXW5T7w==</DigestValue></Reference></SignedInfo><SignatureValue>KrF/TUkU/F+JmsDLwOIGm272Q1dgQmu8JY3uneB/44WnHsqZc6JhLssudGZC/T4owPO35n7qe8gU
+ingAPjmOLk8TLKJK0vbcE7BkbiEhuhVh7mzfTsOQMNW1d+AIF5bqqVy9Myn/HSncYz6J55nvZo7G
+w0SOsxg3AgeeICv5g6IhjddRSsaMU5rOXsnvT93qsRjKQcuJWZrscuD8Msv2nnqF+VQasF6+SK9B
+voei1ftWT+jwPoiP7Z+zt38WLv3C1Nwv1WP4k1Mh1j01eZakcvmyiAVVvt1M23fUPXT3IK54GPhB
+D7Ao75KAm23Fe+YosZcoq/UVYUw1CfEU0ogVww==</SignatureValue><KeyInfo><X509Data><X509SubjectName>CN=Default code-signing certificate,OU=R&amp;D,O=Talend Inc.,ST=Paris,C=FR</X509SubjectName><X509Certificate>MIIFYzCCA0ugAwIBAgIBATANBgkqhkiG9w0BAQsFADCBjTELMAkGA1UEBhMCRlIxDjAMBgNVBAgM
+BVBhcmlzMQ4wDAYDVQQHDAVQYXJpczEUMBIGA1UECgwLVGFsZW5kIEluYy4xDDAKBgNVBAsMA1Im
+RDEWMBQGA1UEAwwNVGFsZW5kIFImRCBDQTEiMCAGCSqGSIb3DQEJARYTc2VjdXJpdHlAdGFsZW5k
+LmNvbTAeFw0xODAxMTgwMDA2MTJaFw0yMTAxMTcwMDA2MTJaMGwxCzAJBgNVBAYTAkZSMQ4wDAYD
+VQQIDAVQYXJpczEUMBIGA1UECgwLVGFsZW5kIEluYy4xDDAKBgNVBAsMA1ImRDEpMCcGA1UEAwwg
+RGVmYXVsdCBjb2RlLXNpZ25pbmcgY2VydGlmaWNhdGUwggEiMA0GCSqGSIb3DQEBAQUAA4IBDwAw
+ggEKAoIBAQDiCz1II/o6hDUWu/ygxTCT2o/fYxVzPW23AoONQC/Vuiqh0COyLIgaMTjBPmQdTQFq
+rmM5tD64gi4TEQF+Z3iYt3daLdQUfaW9SzaMlY+XVNz5xnMBVDuiSHJSFE9lKnhgbKAHvOeoJo46
+UgWwb1za0WpRckDtjKcntwEK1orZCgrcIo1nDvFXyB5n0KfpLyktEOa0bSHde50MPbvQeB66XlEb
+lhjfs5S9WnAUja9RgqdwqZoI0ss+x/pjkQygDT8f17MktM21HOtg09lJlhMGJckhgD7jUF5tfYGM
+sv/O27g5CToFhxOnutDtsrDw7AkEQIml8KJp97bQLAFlLnh1AgMBAAGjge0wgeowHQYDVR0OBBYE
+FFzdy6ZfpUX8JwkM/SUrqkwLNqWAMB8GA1UdIwQYMBaAFOd9C3L8tYGZxoAr2SzsgnMytaj3MAsG
+A1UdDwQEAwIHgDATBgNVHSUEDDAKBggrBgEFBQcDAzAJBgNVHRMEAjAAMHsGCWCGSAGG+EIBDQRu
+FmxEZWZhdWx0IHRoaXJkIHBhcnR5IGNvZGUtc2lnbmluZyBjZXJ0aWZpY2F0ZS4gTm8gY29tbWl0
+bWVudCBpcyBtYWRlIG9uIHRoZSBjb250ZW50IHNpZ25lZCBieSB0aGUgdGhpcmQgcGFydHkwDQYJ
+KoZIhvcNAQELBQADggIBAKzYdnzoFgrRtDLSSzWtwuOrGo5+1RPoDHm/1dlbVnB7oZzUwfRGwZT5
+ser0V7OZyt9wWR8iQ2ka30fHWrNAosNtlIkF88s5YZw7OOIMxR+qYA99BnWLa79DZVIuukI2f5qJ
+Cr9nw6Oygo8CWeNMWhtXcvV4gqROhb2QMBrvWBw9QvNK1XMdtPShfWiXwyPzzRKgwqrN2meXtOY3
+S+MXu6u+RUD9EYeElp9M+9Yp+zRySl5/s+0sbvo7qz369dlsw8XhKXT+s4YQQe3Sx14Kg3SDFXKn
+QcVgycaZMOw4YUxOeP2hKOHnNuOMORfu3qlYkN/0RMGjn6r4PU4+yL276TiWI5b8J06y4leng2as
+r3/fbKJ02Ni9kCnkY8wQS1yn45UNl1woSjryza4f4uLKGkrrIsUPXK+Vy4A1Il8XgFfmrtgA8m9s
+EHyu0OyAJH/agWN+GLhF/ssp26oXhiYqTkG4sQtNRFQG0isaYf/JWSt3f8Q+7/pnZpz4mfEAFimI
+BBLzRwDA6x9qqOn0RXxBo9pH16EO3SXPLR64cJum8B/RI/i8H6OkQDO1tEiE6UeceZk++U7fnD3c
+6i9Km85GTgQi6REsVZGIL/tZNIzN//qPwi7cDo3Cf/xmPrIKQhHJaxCqmbjGDmC8AXOaqNfWotVX
+Wy2dcglW62PDszE/HKh9</X509Certificate></X509Data></KeyInfo><Object><SignatureProperties><SignatureProperty Id="_1fde88db-8742-4eeb-909a-3e688433d104" Target="#_33bbcc6a-0ae2-475c-8e3b-bd55afa25066"><Timestamp>2018-12-13 00:33:44</Timestamp></SignatureProperty></SignatureProperties></Object></Signature></talendfile:ContextType>
