@@ -19,6 +19,7 @@
     <module>jobs/process/Landing/test_fail_0.1</module>
     <module>jobs/process/Landing/snowflake_transform_0.1</module>
     <module>jobs/process/Landing/readsalesforcecustomer_0.1</module>
+    <module>jobs/process/Landing/getupdatedsalesforceaccounts_0.1</module>
   </modules>
   <properties>
     <talend.project.name>HCF_DATALAKE</talend.project.name>
