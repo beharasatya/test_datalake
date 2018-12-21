@@ -204,6 +204,7 @@
       <relatedItems xmi:id="_EgVojAJZEemg07rjF0BGfw" id="Relational" version="Latest" type="routine"/>
       <relatedItems xmi:id="_EgVojQJZEemg07rjF0BGfw" id="TalendStringUtil" version="Latest" type="routine"/>
       <relatedItems xmi:id="_EgVojgJZEemg07rjF0BGfw" id="_GWftYP8uEeig07rjF0BGfw - Account" version="Latest" type="schema"/>
+      <relatedItems xmi:id="_yIDTgATSEemCBIZP6G68pg" id="_84r4kAMyEemg07rjF0BGfw" version="Latest" type="property"/>
     </ItemsRelations>
     <migrationTask xmi:id="_4T3SoOYfEei5Xd-e-JwtxA" id="org.talend.repository.localprovider.RemoveRoutineFolderTask" breaks="5.1.1" version="5.1.2" status="noimpact"/>
     <migrationTask xmi:id="_4T3SoeYfEei5Xd-e-JwtxA" id="org.talend.repository.localprovider.model.migration.ChangeXmiSerialization" breaks="5.1.1" version="5.1.2" status="noimpact"/>
