@@ -22,6 +22,7 @@
     <module>jobs/process/Landing/getupdatedsalesforceaccounts_0.1</module>
     <module>jobs/process/Landing/readsalesforcecustomer_1.0</module>
     <module>jobs/process_mr/extractsfcustomer_0.1</module>
+    <module>jobs/process/Landing/readsalesforcecustomermanual_1.0</module>
   </modules>
   <properties>
     <talend.project.name>HCF_DATALAKE</talend.project.name>
