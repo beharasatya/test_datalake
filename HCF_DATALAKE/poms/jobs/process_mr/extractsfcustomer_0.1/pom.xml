@@ -36,7 +36,7 @@
     <talend.job.name>extractSfCustomer</talend.job.name>
     <talend.job.id>_eNpKYA8hEemFiYEK2_EMCQ</talend.job.id>
     <talend.project.id>0</talend.project.id>
-    <talend.job.framework>MapReduce</talend.job.framework>
+    <talend.job.framework>Spark</talend.job.framework>
     <talend.job.type>Big_Data_Batch</talend.job.type>
   </properties>
   <dependencies>
